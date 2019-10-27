@@ -1,0 +1,9 @@
+# Ignore emacs backup and auto-save files
+*~
+\#*\#
+
+# Ignore LaTeX output files
+*.aux
+*.pdf
+*.out
+*.log
